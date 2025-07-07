@@ -1,4 +1,4 @@
-# Hi! I'm Emmanuel — but you can call me Darkem 👋
+# Hi! I'm Emmanuel 👋
 
 I'm a passionate **Full Stack Developer** with over **2 years of hands-on experience** in web development and building scalable solutions.  
 Currently, I'm pursuing a **Bachelor's degree in Computer Systems Engineering**.  
